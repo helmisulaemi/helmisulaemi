@@ -8,9 +8,11 @@
 <p>Hi, I'm Helmi Sulaemi, a passionate self-taught full stack web developer.</p>
 
 <p>Here are some ideas to get you started:</p>
+<!--
 <a target="_blank">
   <img align="right" height="250" width="400" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/code.gif">
 </a>
+-->
 
 - 🔭 I’m currently working on **Web Development**
 - 🌱 I’m currently learning **PHP and Competitive Programming**
@@ -21,7 +23,9 @@
 <br/>
 <br/>
 
+<!--
 ### <img src="https://www.svgrepo.com/show/349375/github.svg" alt="Github Helmi Sulaemi" title="Github Helmi Sulaemi" width="30" height="30"> &nbsp; My GitHub Stats:
+-->
 
 <div align="left">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=helmisulaemi&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=f8333c&icon_color=f8333c" />
