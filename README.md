@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <div align="left">
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=helmisulaemi&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=f8333c&icon_color=f8333c)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helmisulaemi&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&title_color=f8333c)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helmisulaemi&layout=compact&hide_border=true&custom_title=I%20use&title_color=f8333c&card_width=445)
 </div>
 <!--
 **helmisulaemi/helmisulaemi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
