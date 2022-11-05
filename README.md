@@ -22,7 +22,6 @@
 - 🌱 I’m currently learning **PHP and Competitive Programming**
 - 👯 I’m looking to collaborate on **Web Development**
 - 💬 Ask me about Anything [here](https://github.com/helmisulaemi/helmisulaemi/issues/1)! I am happy to help.
-- 😄 Pronouns : **He/Him/His**
 <br/>
 <br/>
 
