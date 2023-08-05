@@ -9,6 +9,7 @@
 <a href="https://www.linkedin.com/in/helmi-sulaemi-06b489128" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/hmsiwebdesign" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://github.com/helmisulaemi" target="_blank"><img src="https://img.shields.io/badge/Github-%230A0A0A.svg?&style=flat-square&logo=github&logoColor=white" alt="github"></a>
+<a href="https://helmisulaemi.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Website-%230E4A8F.svg?&style=flat-square&logo=googlechrome&logoColor=white" alt="Website"></a>
 <p>Hi, I'm Helmi Sulaemi, a passionate self-taught full stack web developer.</p>
 
 <p>Here are some ideas to get you started:</p>
