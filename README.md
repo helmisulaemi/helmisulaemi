@@ -49,11 +49,12 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
 ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-05122A?style=flat&logo=AdobeXD)&nbsp;
-
+<!--
 <div align="left">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=helmisulaemi&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=f8333c&icon_color=f8333c" />
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=helmisulaemi&layout=compact&hide_border=true&title_color=f8333c&exclude_lang=java+r&theme=vue-light" />
 </div>
+-->
 <!--
 **helmisulaemi/helmisulaemi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
